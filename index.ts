@@ -1,0 +1,1 @@
+console.log('안녕 나는 두 번째 분기야 A보다 firstPrac브랜치의 최신 정보를 가지고 있지');
