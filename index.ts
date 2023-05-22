@@ -1,1 +1,1 @@
-console.log('Hi ts');
+console.log('Hi ts No js!');
